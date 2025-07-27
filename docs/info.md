@@ -13,7 +13,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 # Your project title
 
-Author: 
+Author: Ayush Dixit
 
 Peripheral index: 
 
